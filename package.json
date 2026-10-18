@@ -31,7 +31,7 @@
     "ip3country": "^5.0.0",
     "node-fetch": "^2.7.0",
     "ua-parser-js": "^1.0.2",
-    "uuid": "^8.3.2"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.2",
@@ -52,7 +52,7 @@
     "eslint-plugin-prettier": "^5.1.2",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "babel-jest": "^29.7.0",
-    "form-data": "4.0.4",
+    "form-data": "4.0.6",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
     "jsdoc-to-markdown": "^7.1.1",
